@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "XKZIqptn9WE35hhnsmhFX47dego=",
+			"path": "github.com/nkbai/blog/goplugin/anotherlib",
+			"revision": "cb3867367499b6427f07ea2dcdd706c10582ba0b",
+			"revisionTime": "2018-09-14T09:46:05Z"
+		}
+	],
+	"rootPath": "github.com/nkbai/blog/goplugin/pluginwithvendor"
+}
